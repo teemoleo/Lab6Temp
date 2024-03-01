@@ -4,4 +4,3 @@ class Main {
 		System.out.println("pr change");
 	}
 }
-
